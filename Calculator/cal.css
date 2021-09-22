@@ -1,0 +1,18 @@
+div {
+    height: 90px;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    border: 1px solid black;
+}
+
+input[type=button] {
+    width: 100%;
+    background-color: rgb(202, 126, 98);
+}
+
+input[type=text] {
+    width: 98%;
+}
